@@ -73,6 +73,10 @@ h1 a:hover {
   padding: 1px;
 }
 
+.press img:hover{
+  border: ;
+}
+
 #copy {
   text-align: right;
   background: #fff;
